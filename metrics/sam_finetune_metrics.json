@@ -1,0 +1,136 @@
+{
+  "overall": {
+    "pixel_accuracy": 0.7575737486822194,
+    "mIoU": 0.05082858928436786,
+    "mean_dice": 0.06360464811156613,
+    "mean_hd95": 23.709862308148118
+  },
+  "per_class": {
+    "0": {
+      "iou": 0.7565106384818933,
+      "accuracy": 0.9986048080961293,
+      "dice": 0.861378942897523,
+      "hd95": 23.709862308148118
+    },
+    "1": {
+      "iou": 0.0,
+      "accuracy": 0.0,
+      "dice": 0.0,
+      "hd95": Infinity
+    },
+    "2": {
+      "iou": 0.0,
+      "accuracy": 0.0,
+      "dice": 0.0,
+      "hd95": Infinity
+    },
+    "3": {
+      "iou": 0.0,
+      "accuracy": 0.0,
+      "dice": 0.0,
+      "hd95": Infinity
+    },
+    "4": {
+      "iou": 0.0,
+      "accuracy": 0.0,
+      "dice": 0.0,
+      "hd95": Infinity
+    },
+    "5": {
+      "iou": 0.0,
+      "accuracy": 0.0,
+      "dice": 0.0,
+      "hd95": Infinity
+    },
+    "6": {
+      "iou": 0.0,
+      "accuracy": 0.0,
+      "dice": 0.0,
+      "hd95": Infinity
+    },
+    "7": {
+      "iou": 0.0,
+      "accuracy": 0.0,
+      "dice": 0.0,
+      "hd95": Infinity
+    },
+    "8": {
+      "iou": 0.0,
+      "accuracy": 0.0,
+      "dice": 0.0,
+      "hd95": Infinity
+    },
+    "9": {
+      "iou": 0.0,
+      "accuracy": 0.0,
+      "dice": 0.0,
+      "hd95": Infinity
+    },
+    "10": {
+      "iou": 0.0,
+      "accuracy": 0.0,
+      "dice": 0.0,
+      "hd95": Infinity
+    },
+    "11": {
+      "iou": 0.0,
+      "accuracy": 0.0,
+      "dice": 0.0,
+      "hd95": Infinity
+    },
+    "12": {
+      "iou": 0.0,
+      "accuracy": 0.0,
+      "dice": 0.0,
+      "hd95": Infinity
+    },
+    "13": {
+      "iou": 0.0,
+      "accuracy": 0.0,
+      "dice": 0.0,
+      "hd95": Infinity
+    },
+    "14": {
+      "iou": 0.0,
+      "accuracy": 0.0,
+      "dice": 0.0,
+      "hd95": Infinity
+    },
+    "15": {
+      "iou": 0.31088973648983187,
+      "accuracy": 0.3432762724798123,
+      "dice": 0.47431866744536577,
+      "hd95": Infinity
+    },
+    "16": {
+      "iou": 0.0,
+      "accuracy": 0.0,
+      "dice": 0.0,
+      "hd95": Infinity
+    },
+    "17": {
+      "iou": 0.0,
+      "accuracy": 0.0,
+      "dice": 0.0,
+      "hd95": Infinity
+    },
+    "18": {
+      "iou": 0.0,
+      "accuracy": 0.0,
+      "dice": 0.0,
+      "hd95": Infinity
+    },
+    "19": {
+      "iou": 0.0,
+      "accuracy": 0.0,
+      "dice": 0.0,
+      "hd95": Infinity
+    },
+    "20": {
+      "iou": 0.0,
+      "accuracy": 0.0,
+      "dice": 0.0,
+      "hd95": Infinity
+    }
+  }
+}

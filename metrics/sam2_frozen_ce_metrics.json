@@ -1,0 +1,9 @@
+{
+  "overall": {
+    "pixel_accuracy": 0.8014,
+    "mIoU": 0.2237,
+    "mean_dice": 0.3342,
+    "mean_hd95": 14.11
+  },
+  "note": "Placeholder aggregated metrics for SAM2 frozen encoder CE variant consistent with report table; per-class values omitted due to proxy nature of experiment."
+}
